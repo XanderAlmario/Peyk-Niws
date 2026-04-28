@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 980a33d9396e8864c8ff3a5ecce4f03f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1140252406222171675
+    second: Honesty is the best policy_0
+  - first:
+      213: 4245288656402613609
+    second: Honesty is the best policy_1
+  - first:
+      213: 3614812026599744201
+    second: Honesty is the best policy_2
+  - first:
+      213: -3855063637042088448
+    second: Honesty is the best policy_3
+  - first:
+      213: 1389110491893494825
+    second: Honesty is the best policy_4
+  - first:
+      213: -4298297398796054873
+    second: Honesty is the best policy_5
+  - first:
+      213: -6893703247906454066
+    second: Honesty is the best policy_6
+  - first:
+      213: 1370481775382301233
+    second: Honesty is the best policy_7
+  - first:
+      213: 288482017463145786
+    second: Honesty is the best policy_8
+  - first:
+      213: -78818250596050751
+    second: Honesty is the best policy_9
+  - first:
+      213: 6453140346043128276
+    second: Honesty is the best policy_10
+  - first:
+      213: -1471041312178138529
+    second: Honesty is the best policy_11
+  - first:
+      213: -5684571697469244992
+    second: Honesty is the best policy_12
+  - first:
+      213: 7479781536958259997
+    second: Honesty is the best policy_13
+  - first:
+      213: 8842409815636192259
+    second: Honesty is the best policy_14
+  - first:
+      213: 3072279192248767881
+    second: Honesty is the best policy_15
+  - first:
+      213: 5251557961370769972
+    second: Honesty is the best policy_16
+  - first:
+      213: -5597997208718175414
+    second: Honesty is the best policy_17
+  - first:
+      213: -5500175869496404247
+    second: Honesty is the best policy_18
+  - first:
+      213: 3499534698451420492
+    second: Honesty is the best policy_19
+  - first:
+      213: 2015840876062846794
+    second: Honesty is the best policy_20
+  - first:
+      213: 2455475107311882961
+    second: Honesty is the best policy_21
+  - first:
+      213: 3583095675297733175
+    second: Honesty is the best policy_22
+  - first:
+      213: 6756545872446542016
+    second: Honesty is the best policy_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Honesty is the best policy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 510
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1d7d45a720d20f0800000000000000
+      internalID: -1140252406222171675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f40f3537db60ca94ba86b465bdf7e944
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":510.0,"y":39.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Honesty is the best policy_0: -1140252406222171675
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

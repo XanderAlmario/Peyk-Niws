@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: c3450dff2d4b2f84d95e8ee6651ae94b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 733889643314546983
+    second: I love cosplaying, I can be other characters!_0
+  - first:
+      213: -3851858325803467211
+    second: I love cosplaying, I can be other characters!_1
+  - first:
+      213: -4951957338951073013
+    second: I love cosplaying, I can be other characters!_2
+  - first:
+      213: -602073676588495531
+    second: I love cosplaying, I can be other characters!_3
+  - first:
+      213: 1526005702725289687
+    second: I love cosplaying, I can be other characters!_4
+  - first:
+      213: 5685836735862811907
+    second: I love cosplaying, I can be other characters!_5
+  - first:
+      213: -4124926894282149585
+    second: I love cosplaying, I can be other characters!_6
+  - first:
+      213: 2917869144427298640
+    second: I love cosplaying, I can be other characters!_7
+  - first:
+      213: 1579928149935922502
+    second: I love cosplaying, I can be other characters!_8
+  - first:
+      213: 4848310689524005104
+    second: I love cosplaying, I can be other characters!_9
+  - first:
+      213: -8505495450632795496
+    second: I love cosplaying, I can be other characters!_10
+  - first:
+      213: 1910830287568052531
+    second: I love cosplaying, I can be other characters!_11
+  - first:
+      213: -7780335184007647076
+    second: I love cosplaying, I can be other characters!_12
+  - first:
+      213: -722597211343131828
+    second: I love cosplaying, I can be other characters!_13
+  - first:
+      213: -611338448954472506
+    second: I love cosplaying, I can be other characters!_14
+  - first:
+      213: 6394388046954267542
+    second: I love cosplaying, I can be other characters!_15
+  - first:
+      213: -7790228205805808936
+    second: I love cosplaying, I can be other characters!_16
+  - first:
+      213: -5862352636796075056
+    second: I love cosplaying, I can be other characters!_17
+  - first:
+      213: -969371235859061812
+    second: I love cosplaying, I can be other characters!_18
+  - first:
+      213: -1314318194046063903
+    second: I love cosplaying, I can be other characters!_19
+  - first:
+      213: -7708359778688605643
+    second: I love cosplaying, I can be other characters!_20
+  - first:
+      213: 1947424366344319430
+    second: I love cosplaying, I can be other characters!_21
+  - first:
+      213: -2546346167451982464
+    second: I love cosplaying, I can be other characters!_22
+  - first:
+      213: -4099096484357798900
+    second: I love cosplaying, I can be other characters!_23
+  - first:
+      213: 2004009414235805245
+    second: I love cosplaying, I can be other characters!_24
+  - first:
+      213: -3340358685592648562
+    second: I love cosplaying, I can be other characters!_25
+  - first:
+      213: -9113541913478380375
+    second: I love cosplaying, I can be other characters!_26
+  - first:
+      213: 8777473372879646795
+    second: I love cosplaying, I can be other characters!_27
+  - first:
+      213: -3772883091967727309
+    second: I love cosplaying, I can be other characters!_28
+  - first:
+      213: 9212585725697416777
+    second: I love cosplaying, I can be other characters!_29
+  - first:
+      213: 2361460407671824984
+    second: I love cosplaying, I can be other characters!_30
+  - first:
+      213: -5180998167004294999
+    second: I love cosplaying, I can be other characters!_31
+  - first:
+      213: 8235094363804207918
+    second: I love cosplaying, I can be other characters!_32
+  - first:
+      213: 4371747979975286141
+    second: I love cosplaying, I can be other characters!_33
+  - first:
+      213: 7317577345615175875
+    second: I love cosplaying, I can be other characters!_34
+  - first:
+      213: 2246266194798175407
+    second: I love cosplaying, I can be other characters!_35
+  - first:
+      213: -3765000945075885690
+    second: I love cosplaying, I can be other characters!_36
+  - first:
+      213: 5994286290498571693
+    second: I love cosplaying, I can be other characters!_37
+  - first:
+      213: -854300111172010888
+    second: I love cosplaying, I can be other characters!_38
+  - first:
+      213: 3966912814675555808
+    second: I love cosplaying, I can be other characters!_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: I love cosplaying, I can be other characters!_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1868
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7290a160ebc4f2a00800000000000000
+      internalID: 733889643314546983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 54340ec623b791d48a7de50086273b27
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1868.0,"y":86.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      I love cosplaying, I can be other characters!_0: 733889643314546983
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

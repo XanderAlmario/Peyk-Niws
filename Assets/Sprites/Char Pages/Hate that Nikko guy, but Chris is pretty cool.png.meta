@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: 6607c5ade2fe19942a7cba7761a91645
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7646515290370695459
+    second: Hate that Nikko guy, but Chris is pretty cool_0
+  - first:
+      213: -5239283962526246546
+    second: Hate that Nikko guy, but Chris is pretty cool_1
+  - first:
+      213: 8278922278482207436
+    second: Hate that Nikko guy, but Chris is pretty cool_2
+  - first:
+      213: 8640100667348402690
+    second: Hate that Nikko guy, but Chris is pretty cool_3
+  - first:
+      213: 9195909808004744673
+    second: Hate that Nikko guy, but Chris is pretty cool_4
+  - first:
+      213: -6189961751872687125
+    second: Hate that Nikko guy, but Chris is pretty cool_5
+  - first:
+      213: 8528036937635228252
+    second: Hate that Nikko guy, but Chris is pretty cool_6
+  - first:
+      213: -5886391744513227649
+    second: Hate that Nikko guy, but Chris is pretty cool_7
+  - first:
+      213: 8050541219724663443
+    second: Hate that Nikko guy, but Chris is pretty cool_8
+  - first:
+      213: -7522967755633319155
+    second: Hate that Nikko guy, but Chris is pretty cool_9
+  - first:
+      213: -2767301067751998990
+    second: Hate that Nikko guy, but Chris is pretty cool_10
+  - first:
+      213: 424887159919066257
+    second: Hate that Nikko guy, but Chris is pretty cool_11
+  - first:
+      213: 7309975045299057779
+    second: Hate that Nikko guy, but Chris is pretty cool_12
+  - first:
+      213: 1010516294240244862
+    second: Hate that Nikko guy, but Chris is pretty cool_13
+  - first:
+      213: -3231875957482187065
+    second: Hate that Nikko guy, but Chris is pretty cool_14
+  - first:
+      213: 6376382825118836227
+    second: Hate that Nikko guy, but Chris is pretty cool_15
+  - first:
+      213: 2532679355034613536
+    second: Hate that Nikko guy, but Chris is pretty cool_16
+  - first:
+      213: 2488717515196280450
+    second: Hate that Nikko guy, but Chris is pretty cool_17
+  - first:
+      213: -815461526578881275
+    second: Hate that Nikko guy, but Chris is pretty cool_18
+  - first:
+      213: 6606086036009784842
+    second: Hate that Nikko guy, but Chris is pretty cool_19
+  - first:
+      213: -7155061985965493879
+    second: Hate that Nikko guy, but Chris is pretty cool_20
+  - first:
+      213: -7137859887933156934
+    second: Hate that Nikko guy, but Chris is pretty cool_21
+  - first:
+      213: 4213542986353294263
+    second: Hate that Nikko guy, but Chris is pretty cool_22
+  - first:
+      213: -8263046744587635617
+    second: Hate that Nikko guy, but Chris is pretty cool_23
+  - first:
+      213: -3120326656105115074
+    second: Hate that Nikko guy, but Chris is pretty cool_24
+  - first:
+      213: -8159413454836840926
+    second: Hate that Nikko guy, but Chris is pretty cool_25
+  - first:
+      213: 2647159700619874991
+    second: Hate that Nikko guy, but Chris is pretty cool_26
+  - first:
+      213: -4807583935025322028
+    second: Hate that Nikko guy, but Chris is pretty cool_27
+  - first:
+      213: -6450301877868737840
+    second: Hate that Nikko guy, but Chris is pretty cool_28
+  - first:
+      213: -6105240019778069524
+    second: Hate that Nikko guy, but Chris is pretty cool_29
+  - first:
+      213: -6255142436975256094
+    second: Hate that Nikko guy, but Chris is pretty cool_30
+  - first:
+      213: -7436207896415548852
+    second: Hate that Nikko guy, but Chris is pretty cool_31
+  - first:
+      213: -7161508700409848780
+    second: Hate that Nikko guy, but Chris is pretty cool_32
+  - first:
+      213: 4345766866649277615
+    second: Hate that Nikko guy, but Chris is pretty cool_33
+  - first:
+      213: 4926218199147758495
+    second: Hate that Nikko guy, but Chris is pretty cool_34
+  - first:
+      213: -6454682702448483053
+    second: Hate that Nikko guy, but Chris is pretty cool_35
+  - first:
+      213: 3518203386550179634
+    second: Hate that Nikko guy, but Chris is pretty cool_36
+  - first:
+      213: -1346811724624857672
+    second: Hate that Nikko guy, but Chris is pretty cool_37
+  - first:
+      213: 74717471574058199
+    second: Hate that Nikko guy, but Chris is pretty cool_38
+  - first:
+      213: 8411357002059962189
+    second: Hate that Nikko guy, but Chris is pretty cool_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hate that Nikko guy, but Chris is pretty cool_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1879
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde9cdb3bde12e590800000000000000
+      internalID: -7646515290370695459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 531f2e07d053b92469c6e897dccb7021
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1879.0,"y":86.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Hate that Nikko guy, but Chris is pretty cool_0: -7646515290370695459
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
