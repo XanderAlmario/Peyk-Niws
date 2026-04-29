@@ -54,6 +54,11 @@ public class Navigation : MonoBehaviour
     {
         SceneManager.LoadSceneAsync("WinPage");
     }
+
+    public void WinTutGame()
+    {
+        SceneManager.LoadSceneAsync("WinPageTut");
+    }
     
     public void LoseGame()
     {

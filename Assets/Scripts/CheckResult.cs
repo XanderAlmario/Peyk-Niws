@@ -20,6 +20,14 @@ public class CheckResult : MonoBehaviour
                 SceneManager.LoadSceneAsync("LosePage");
             }
         }
+        else if (level.inHard)
+        {
+            SceneManager.LoadSceneAsync("LosePage");
+        }
+        else if (level.inEnd)
+        {
+            SceneManager.LoadSceneAsync("Credits");
+        }
     }
 
     public void CheckForQymi()
@@ -27,6 +35,21 @@ public class CheckResult : MonoBehaviour
         if (level.inEasy)
         {
             SceneManager.LoadSceneAsync("LosePage");
+        }
+        else if (level.inHard)
+        {
+            if (postPerm.details == 0)
+            {
+                SceneManager.LoadSceneAsync("WinPage");
+            }
+            else
+            {
+                SceneManager.LoadSceneAsync("LosePage");
+            }
+        }
+        else if (level.inEnd)
+        {
+            SceneManager.LoadSceneAsync("Credits");
         }
     }
 
@@ -36,6 +59,21 @@ public class CheckResult : MonoBehaviour
         {
             SceneManager.LoadSceneAsync("LosePage");
         }
+        else if (level.inHard)
+        {
+            if (postPerm.details == 2)
+            {
+                SceneManager.LoadSceneAsync("WinPage");
+            }
+            else
+            {
+                SceneManager.LoadSceneAsync("LosePage");
+            }
+        }
+        else if (level.inEnd)
+        {
+            SceneManager.LoadSceneAsync("Credits");
+        }
     }
 
     public void CheckForChris()
@@ -43,6 +81,14 @@ public class CheckResult : MonoBehaviour
         if (level.inEasy)
         {
             SceneManager.LoadSceneAsync("WinPage");
+        }
+        else if (level.inHard)
+        {
+            SceneManager.LoadSceneAsync("LosePage");
+        }
+        else if (level.inEnd)
+        {
+            SceneManager.LoadSceneAsync("Credits");
         }
     }
 
@@ -52,6 +98,21 @@ public class CheckResult : MonoBehaviour
         {
             SceneManager.LoadSceneAsync("LosePage");
         }
+        else if (level.inHard)
+        {
+            if (postPerm.details == 1)
+            {
+                SceneManager.LoadSceneAsync("WinPage");
+            }
+            else
+            {
+                SceneManager.LoadSceneAsync("LosePage");
+            }
+        }
+        else if (level.inEnd)
+        {
+            SceneManager.LoadSceneAsync("Credits");
+        }
     }
 
     public void CheckForSoph()
@@ -59,6 +120,10 @@ public class CheckResult : MonoBehaviour
         if (level.inEasy)
         {
             SceneManager.LoadSceneAsync("WinPage");
+        }
+        else if (level.inHard)
+        {
+            SceneManager.LoadSceneAsync("LosePage");
         }
     }
 }

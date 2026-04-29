@@ -131,6 +131,7 @@ GameObject:
   - component: {fileID: 108971349}
   - component: {fileID: 108971348}
   - component: {fileID: 108971347}
+  - component: {fileID: 108971350}
   m_Layer: 5
   m_Name: Report
   m_TagString: Untagged
@@ -201,10 +202,10 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1795804073}
-        m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
-        m_MethodName: SetActive
-        m_Mode: 6
+      - m_Target: {fileID: 108971350}
+        m_TargetAssemblyTypeName: CheckResult, Assembly-CSharp
+        m_MethodName: CheckForChris
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -251,6 +252,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 108971345}
   m_CullTransparentMesh: 1
+--- !u!114 &108971350
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 108971345}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc3aca788bfa0f849ba0da9f629e0e63, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CheckResult
+  level: {fileID: 11400000, guid: 036857752ee76a7488ee87d27bd876a3, type: 2}
+  postPerm: {fileID: 11400000, guid: 4370958315df7b14ea9bdae710cf0b0a, type: 2}
 --- !u!1 &288522661
 GameObject:
   m_ObjectHideFlags: 0

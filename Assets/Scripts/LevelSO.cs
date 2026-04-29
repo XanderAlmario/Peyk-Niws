@@ -8,6 +8,7 @@ public class LevelSO : ScriptableObject
     [System.NonSerialized] private bool man = false;
     [System.NonSerialized] private bool easy = false;
     [System.NonSerialized] private bool hard = false;
+    [System.NonSerialized] private bool end = false;
     public bool inFab
     {
         get { return fab; }
@@ -32,6 +33,11 @@ public class LevelSO : ScriptableObject
     {
         get { return hard; }
         set { hard = value; }
+    }
+    public bool inEnd
+    {
+        get { return end; }
+        set { end = value; }
     }
     
 }

@@ -196,8 +196,8 @@ public class SetHardPermutations : MonoBehaviour
         checkList.transform.GetChild(0).GetComponent<TMP_Text>().text = username1;
         checkList.transform.GetChild(1).GetComponent<TMP_Text>().text = username2;
         checkList.transform.GetChild(2).GetComponent<TMP_Text>().text = username3;
-        checkList.transform.GetChild(3).GetComponent<TMP_Text>().text = username4;
-        checkList.transform.GetChild(4).GetComponent<TMP_Text>().text = username5;
+        checkList.transform.GetChild(22).GetChild(0).GetComponent<TMP_Text>().text = username4;
+        checkList.transform.GetChild(22).GetChild(1).GetComponent<TMP_Text>().text = username5;
     }
 
     void SetPosts()
