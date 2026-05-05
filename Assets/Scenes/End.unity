@@ -130,7 +130,7 @@ PrefabInstance:
     - target: {fileID: 1297828876109266643, guid: 2a2ce11149770fe4fa922461123a0821, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 8259796430772197771, guid: b4b678e2091f8d642bc52ee9c3b790ec, type: 3}
+      objectReference: {fileID: -7079386777070218683, guid: 9bdba082365f36f47bbcb5c79778c138, type: 3}
     - target: {fileID: 1839610704430552693, guid: 2a2ce11149770fe4fa922461123a0821, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2
@@ -161,14 +161,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2159534897854115432, guid: 2a2ce11149770fe4fa922461123a0821, type: 3}
       propertyPath: m_text
-      value: "Several countries have entered into an agreement to provide fuel transit
-        support to the Philippines in response to rising fuel costs. The partnership
-        is expected to allow the Philippines access to more stable fuel supplies
-        through distribution channels. \u201CThis initiative aims to stabilize fuel
-        prices and support economic recovery in the Philippines,\u201D stated by
-        the Secretary of the Department of Economy, Planning, and Development. The
-        agreement is also said to include logistical support to ensure faster delivery
-        of fuel across the country. "
+      value: Due to the increasing size of Super Typhoon Medina, the government is
+        reportedly preparing to impose a nationwide lockdown in response to an approaching
+        typhoon
       objectReference: {fileID: 0}
     - target: {fileID: 2159534897854115432, guid: 2a2ce11149770fe4fa922461123a0821, type: 3}
       propertyPath: m_fontSize
@@ -176,11 +171,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2181476415454022453, guid: 2a2ce11149770fe4fa922461123a0821, type: 3}
       propertyPath: m_text
-      value: Emergency Fuel transit to the Philippines underway
+      value: Government to impose nationwide lockdown due to incoming typhoon
       objectReference: {fileID: 0}
     - target: {fileID: 3621661582774794082, guid: 2a2ce11149770fe4fa922461123a0821, type: 3}
       propertyPath: m_text
-      value: Global Energy News
+      value: Emergencies
       objectReference: {fileID: 0}
     - target: {fileID: 3621661582774794082, guid: 2a2ce11149770fe4fa922461123a0821, type: 3}
       propertyPath: m_fontSize
@@ -196,7 +191,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5814829685764897624, guid: 2a2ce11149770fe4fa922461123a0821, type: 3}
       propertyPath: m_text
-      value: globalenergynews.com.ph/ph-fuel-deal
+      value: emergencies.com/nationwidealert
       objectReference: {fileID: 0}
     - target: {fileID: 5814829685764897624, guid: 2a2ce11149770fe4fa922461123a0821, type: 3}
       propertyPath: m_fontSize
@@ -827,6 +822,14 @@ PrefabInstance:
       propertyPath: m_Sprite
       value: 
       objectReference: {fileID: -5189909209656127117, guid: 8d46a98866861b143878680c65705716, type: 3}
+    - target: {fileID: 2314346785107998606, guid: ea11e84c048b36e4694cca56f66148ac, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 173.7343
+      objectReference: {fileID: 0}
+    - target: {fileID: 2314346785107998606, guid: ea11e84c048b36e4694cca56f66148ac, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -57.14733
+      objectReference: {fileID: 0}
     - target: {fileID: 2468005879391199189, guid: ea11e84c048b36e4694cca56f66148ac, type: 3}
       propertyPath: m_Name
       value: Comment
@@ -1453,6 +1456,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 187347383}
     m_Modifications:
+    - target: {fileID: 505586180917658718, guid: 5e63e9665369f0545a471813502eff15, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 184.5674
+      objectReference: {fileID: 0}
+    - target: {fileID: 505586180917658718, guid: 5e63e9665369f0545a471813502eff15, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -43.668564
+      objectReference: {fileID: 0}
     - target: {fileID: 548667073455299702, guid: 5e63e9665369f0545a471813502eff15, type: 3}
       propertyPath: m_Name
       value: Username
@@ -1762,7 +1773,7 @@ PrefabInstance:
     - target: {fileID: 1297828876109266643, guid: d04ccd83388d25548b8bc28caf9bab2a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -2594133767464932697, guid: 81387c5dc0108c9448c638bb5c2b87c4, type: 3}
+      objectReference: {fileID: 823893159860933943, guid: 77418133117a1d34bbb48e59ef8858aa, type: 3}
     - target: {fileID: 1839610704430552693, guid: d04ccd83388d25548b8bc28caf9bab2a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2
@@ -2199,7 +2210,7 @@ PrefabInstance:
     - target: {fileID: 1297828876109266643, guid: d04ccd83388d25548b8bc28caf9bab2a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 8580713324836127274, guid: df96385d314c75e479c434cf50d41bac, type: 3}
+      objectReference: {fileID: 8480799083816174820, guid: 9725e37680488cd4aa30a58079fa9467, type: 3}
     - target: {fileID: 1839610704430552693, guid: d04ccd83388d25548b8bc28caf9bab2a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2
@@ -2214,12 +2225,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2159534897854115432, guid: d04ccd83388d25548b8bc28caf9bab2a, type: 3}
       propertyPath: m_text
-      value: The Philippines may soon transition into a fully cashless economy as
-        part of a broader digital transformation initiative. The proposed shift would
-        phase out physical currency and replace it with digital payment systems nationwide.
-        Businesses are expected to adopt digital payment platforms to comply with
-        the changes. While the plan has yet to be officially confirmed, preparations
-        are reportedly already underway in several sectors.
+      value: Nag-anunsyo ang ilang lokal na pamahalaan ng suspensyon ng klase bilang
+        pag-iingat sa patuloy na pag-ulan. Nilinaw ng mga opisyal na ang suspensyon
+        ay nakabatay sa kasalukuyang kondisyon sa bawat lugar.
       objectReference: {fileID: 0}
     - target: {fileID: 2159534897854115432, guid: d04ccd83388d25548b8bc28caf9bab2a, type: 3}
       propertyPath: m_fontSize
@@ -2227,7 +2235,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2181476415454022453, guid: d04ccd83388d25548b8bc28caf9bab2a, type: 3}
       propertyPath: m_text
-      value: Philippines to adopt a purely cashless based system next year
+      value: Suspensyon ng Klase sa Ilang Lugar Dahil sa Malakas na Ulan
       objectReference: {fileID: 0}
     - target: {fileID: 2181476415454022453, guid: d04ccd83388d25548b8bc28caf9bab2a, type: 3}
       propertyPath: m_fontSize
@@ -2247,7 +2255,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5814829685764897624, guid: d04ccd83388d25548b8bc28caf9bab2a, type: 3}
       propertyPath: m_text
-      value: news.net/cashless2027
+      value: https://www.balitapilipinas.com/news/class-suspensions-heavy-rain
       objectReference: {fileID: 0}
     - target: {fileID: 5814829685764897624, guid: d04ccd83388d25548b8bc28caf9bab2a, type: 3}
       propertyPath: m_fontSize
@@ -2526,7 +2534,7 @@ PrefabInstance:
     - target: {fileID: 3977074798267235035, guid: 8ea6486ab04522a4691a2b5a94951fb1, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 8580713324836127274, guid: df96385d314c75e479c434cf50d41bac, type: 3}
+      objectReference: {fileID: 8480799083816174820, guid: 9725e37680488cd4aa30a58079fa9467, type: 3}
     - target: {fileID: 6184434398862292805, guid: 8ea6486ab04522a4691a2b5a94951fb1, type: 3}
       propertyPath: m_text
       value: Cashless
@@ -2641,7 +2649,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7571392793327897153, guid: 8ea6486ab04522a4691a2b5a94951fb1, type: 3}
       propertyPath: m_text
-      value: Philippines to adopt a purely cashless based system next year
+      value: Suspensyon ng Klase sa Ilang Lugar Dahil sa Malakas na Ulan
       objectReference: {fileID: 0}
     - target: {fileID: 7571392793327897153, guid: 8ea6486ab04522a4691a2b5a94951fb1, type: 3}
       propertyPath: m_fontAsset
@@ -2968,7 +2976,7 @@ PrefabInstance:
     - target: {fileID: 1297828876109266643, guid: 21826f423699bc441b9766e15ba0be68, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -3555908507597194202, guid: 74a1dba5e9da040478006695f0218195, type: 3}
+      objectReference: {fileID: 6196012712560175489, guid: 04aa7b9319eccab4ba359f3b6a31db84, type: 3}
     - target: {fileID: 1839610704430552693, guid: 21826f423699bc441b9766e15ba0be68, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2
@@ -3135,7 +3143,7 @@ PrefabInstance:
     - target: {fileID: 1297828876109266643, guid: d04ccd83388d25548b8bc28caf9bab2a, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -6677346114486317470, guid: db44fbad317ed08479250336e731fc22, type: 3}
+      objectReference: {fileID: 2275152100840630682, guid: 203b27ad8cc570e41ba80218bcde3cc8, type: 3}
     - target: {fileID: 1839610704430552693, guid: d04ccd83388d25548b8bc28caf9bab2a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2
@@ -3650,7 +3658,7 @@ PrefabInstance:
     - target: {fileID: 3977074798267235035, guid: 8ea6486ab04522a4691a2b5a94951fb1, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -3555908507597194202, guid: 74a1dba5e9da040478006695f0218195, type: 3}
+      objectReference: {fileID: 6196012712560175489, guid: 04aa7b9319eccab4ba359f3b6a31db84, type: 3}
     - target: {fileID: 6184434398862292805, guid: 8ea6486ab04522a4691a2b5a94951fb1, type: 3}
       propertyPath: m_text
       value: "Malaca\xF1ang"
@@ -3765,8 +3773,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7571392793327897153, guid: 8ea6486ab04522a4691a2b5a94951fb1, type: 3}
       propertyPath: m_text
-      value: Government clarifies no nationwide cashless policy or bank deductions
-        planned
+      value: Flooding Reported in Low-Lying Areas After Continuous Rain
       objectReference: {fileID: 0}
     - target: {fileID: 7571392793327897153, guid: 8ea6486ab04522a4691a2b5a94951fb1, type: 3}
       propertyPath: m_fontAsset
@@ -4110,7 +4117,7 @@ PrefabInstance:
     - target: {fileID: 1297828876109266643, guid: 21826f423699bc441b9766e15ba0be68, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -7003971720849529747, guid: 560df718edfe09e4d8fbabcbef69ec72, type: 3}
+      objectReference: {fileID: 2774936431715280338, guid: c587b013272916c44951f40cdaa76fcd, type: 3}
     - target: {fileID: 1839610704430552693, guid: 21826f423699bc441b9766e15ba0be68, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2
@@ -4133,10 +4140,8 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2159534897854115432, guid: 21826f423699bc441b9766e15ba0be68, type: 3}
       propertyPath: m_text
-      value: 'Artificial intelligence is erxpected to significantly impact several
-        industries in the Philippines. A recent report identifies healthcare, information
-        technology, education, retail, and tourism as the top sectors likely to be
-        affected. '
+      value: According to experts on social media, Super Typhoon Medina is expected
+        to affect the entire country within a day.
       objectReference: {fileID: 0}
     - target: {fileID: 2159534897854115432, guid: 21826f423699bc441b9766e15ba0be68, type: 3}
       propertyPath: m_fontSize
@@ -4144,11 +4149,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2181476415454022453, guid: 21826f423699bc441b9766e15ba0be68, type: 3}
       propertyPath: m_text
-      value: 'AI: Top 5 Jobs to be affected'
+      value: Super Typhoon Medina, To Hit Entire Philippines Within 24 Hours?
       objectReference: {fileID: 0}
     - target: {fileID: 3621661582774794082, guid: 21826f423699bc441b9766e15ba0be68, type: 3}
       propertyPath: m_text
-      value: Job Industry
+      value: Weather Alert
       objectReference: {fileID: 0}
     - target: {fileID: 3621661582774794082, guid: 21826f423699bc441b9766e15ba0be68, type: 3}
       propertyPath: m_fontSize
@@ -4164,7 +4169,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5814829685764897624, guid: 21826f423699bc441b9766e15ba0be68, type: 3}
       propertyPath: m_text
-      value: jobindustry.ai/risks
+      value: http://weatheralert-now247.com/super-typhoon-philippines
       objectReference: {fileID: 0}
     - target: {fileID: 5814829685764897624, guid: 21826f423699bc441b9766e15ba0be68, type: 3}
       propertyPath: m_fontSize
@@ -4434,7 +4439,7 @@ PrefabInstance:
     - target: {fileID: 3977074798267235035, guid: d60d0ebded4329f4f88e0fc8e3a7261b, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -7003971720849529747, guid: 560df718edfe09e4d8fbabcbef69ec72, type: 3}
+      objectReference: {fileID: 2774936431715280338, guid: c587b013272916c44951f40cdaa76fcd, type: 3}
     - target: {fileID: 6184434398862292805, guid: d60d0ebded4329f4f88e0fc8e3a7261b, type: 3}
       propertyPath: m_text
       value: Job Industry
@@ -4553,7 +4558,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7571392793327897153, guid: d60d0ebded4329f4f88e0fc8e3a7261b, type: 3}
       propertyPath: m_text
-      value: 'AI: Top 5 Jobs to be affected'
+      value: Super Typhoon Medina, To Hit Entire Philippines Within 24 Hours?
       objectReference: {fileID: 0}
     - target: {fileID: 7571392793327897153, guid: d60d0ebded4329f4f88e0fc8e3a7261b, type: 3}
       propertyPath: m_fontColor.b
@@ -4632,7 +4637,7 @@ PrefabInstance:
     - target: {fileID: 3977074798267235035, guid: 8ea6486ab04522a4691a2b5a94951fb1, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -2594133767464932697, guid: 81387c5dc0108c9448c638bb5c2b87c4, type: 3}
+      objectReference: {fileID: 823893159860933943, guid: 77418133117a1d34bbb48e59ef8858aa, type: 3}
     - target: {fileID: 6184434398862292805, guid: 8ea6486ab04522a4691a2b5a94951fb1, type: 3}
       propertyPath: m_text
       value: Job on The Watch
@@ -4747,7 +4752,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7571392793327897153, guid: 8ea6486ab04522a4691a2b5a94951fb1, type: 3}
       propertyPath: m_text
-      value: Top 5 job industries in the Philippines
+      value: EMERGENCY - Metro Manila airports and seaport shut down for a month
       objectReference: {fileID: 0}
     - target: {fileID: 7571392793327897153, guid: 8ea6486ab04522a4691a2b5a94951fb1, type: 3}
       propertyPath: m_fontColor.b
@@ -4980,6 +4985,14 @@ PrefabInstance:
     - target: {fileID: 1303676442325510064, guid: 541ab3e6c17b23f41af45c26c176ed27, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 163.37564
+      objectReference: {fileID: 0}
+    - target: {fileID: 1594770818803403951, guid: 541ab3e6c17b23f41af45c26c176ed27, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 167.4844
+      objectReference: {fileID: 0}
+    - target: {fileID: 1594770818803403951, guid: 541ab3e6c17b23f41af45c26c176ed27, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -46.79639
       objectReference: {fileID: 0}
     - target: {fileID: 1812605541364090587, guid: 541ab3e6c17b23f41af45c26c176ed27, type: 3}
       propertyPath: m_Name
@@ -5850,6 +5863,14 @@ PrefabInstance:
     - target: {fileID: 1303676442325510064, guid: 541ab3e6c17b23f41af45c26c176ed27, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 163.37564
+      objectReference: {fileID: 0}
+    - target: {fileID: 1594770818803403951, guid: 541ab3e6c17b23f41af45c26c176ed27, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 176.6507
+      objectReference: {fileID: 0}
+    - target: {fileID: 1594770818803403951, guid: 541ab3e6c17b23f41af45c26c176ed27, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -42.21306
       objectReference: {fileID: 0}
     - target: {fileID: 1812605541364090587, guid: 541ab3e6c17b23f41af45c26c176ed27, type: 3}
       propertyPath: m_Name
@@ -7145,7 +7166,7 @@ PrefabInstance:
     - target: {fileID: 3977074798267235035, guid: 8ea6486ab04522a4691a2b5a94951fb1, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: -6677346114486317470, guid: db44fbad317ed08479250336e731fc22, type: 3}
+      objectReference: {fileID: 2275152100840630682, guid: 203b27ad8cc570e41ba80218bcde3cc8, type: 3}
     - target: {fileID: 6184434398862292805, guid: 8ea6486ab04522a4691a2b5a94951fb1, type: 3}
       propertyPath: m_text
       value: Banking Advice
@@ -7260,8 +7281,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7571392793327897153, guid: 8ea6486ab04522a4691a2b5a94951fb1, type: 3}
       propertyPath: m_text
-      value: "Banks to automatically deduct \u201Ceconomic recovery fee\u201D from
-        accounts"
+      value: NGOs launch donation drives for victims of Super Typhoon Medina
       objectReference: {fileID: 0}
     - target: {fileID: 7571392793327897153, guid: 8ea6486ab04522a4691a2b5a94951fb1, type: 3}
       propertyPath: m_fontAsset
@@ -7668,6 +7688,14 @@ PrefabInstance:
     - target: {fileID: 1303676442325510064, guid: 541ab3e6c17b23f41af45c26c176ed27, type: 3}
       propertyPath: m_AnchoredPosition.y
       value: 163.37564
+      objectReference: {fileID: 0}
+    - target: {fileID: 1594770818803403951, guid: 541ab3e6c17b23f41af45c26c176ed27, type: 3}
+      propertyPath: m_SizeDelta.y
+      value: 175.8175
+      objectReference: {fileID: 0}
+    - target: {fileID: 1594770818803403951, guid: 541ab3e6c17b23f41af45c26c176ed27, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -42.629723
       objectReference: {fileID: 0}
     - target: {fileID: 1812605541364090587, guid: 541ab3e6c17b23f41af45c26c176ed27, type: 3}
       propertyPath: m_Name
@@ -9180,7 +9208,7 @@ PrefabInstance:
     - target: {fileID: 3977074798267235035, guid: 3fb95a7f784bb544fb21a1e59701e5d7, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 8259796430772197771, guid: b4b678e2091f8d642bc52ee9c3b790ec, type: 3}
+      objectReference: {fileID: -7079386777070218683, guid: 9bdba082365f36f47bbcb5c79778c138, type: 3}
     - target: {fileID: 6184434398862292805, guid: 3fb95a7f784bb544fb21a1e59701e5d7, type: 3}
       propertyPath: m_text
       value: Global Energy News
@@ -9295,7 +9323,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7571392793327897153, guid: 3fb95a7f784bb544fb21a1e59701e5d7, type: 3}
       propertyPath: m_text
-      value: Emergency Fuel transit to the Philippines underway
+      value: Government to impose nationwide lockdown due to incoming typhoon
       objectReference: {fileID: 0}
     - target: {fileID: 7571392793327897153, guid: 3fb95a7f784bb544fb21a1e59701e5d7, type: 3}
       propertyPath: m_fontAsset

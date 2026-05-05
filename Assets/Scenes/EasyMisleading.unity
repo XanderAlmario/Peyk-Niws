@@ -275,6 +275,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1297828876109266643, guid: 2a2ce11149770fe4fa922461123a0821, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -433496443054774061, guid: ee87cd66974aa88459a0568d261c5803, type: 3}
     - target: {fileID: 1839610704430552693, guid: 2a2ce11149770fe4fa922461123a0821, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2
@@ -4261,6 +4265,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1297828876109266643, guid: d04ccd83388d25548b8bc28caf9bab2a, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 7724759313501947402, guid: 763555a377618e147b456aeb30c76119, type: 3}
     - target: {fileID: 1839610704430552693, guid: d04ccd83388d25548b8bc28caf9bab2a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2
@@ -4650,6 +4658,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Article3
       objectReference: {fileID: 0}
+    - target: {fileID: 3977074798267235035, guid: 7af3b6ea1badbba4693c2312f6749f2d, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 7724759313501947402, guid: 763555a377618e147b456aeb30c76119, type: 3}
     - target: {fileID: 6415764563984951689, guid: 7af3b6ea1badbba4693c2312f6749f2d, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -5438,6 +5450,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1297828876109266643, guid: 21826f423699bc441b9766e15ba0be68, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 2513793281410055205, guid: 7389cbbf7e20dc04aad3ab5a9091e5a3, type: 3}
     - target: {fileID: 1839610704430552693, guid: 21826f423699bc441b9766e15ba0be68, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2
@@ -6133,6 +6149,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Article2
       objectReference: {fileID: 0}
+    - target: {fileID: 3977074798267235035, guid: 8711928ced5481a49a147d546313f733, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 2513793281410055205, guid: 7389cbbf7e20dc04aad3ab5a9091e5a3, type: 3}
     - target: {fileID: 6184434398862292805, guid: 8711928ced5481a49a147d546313f733, type: 3}
       propertyPath: m_fontAsset
       value: 
@@ -6240,6 +6260,10 @@ PrefabInstance:
     - target: {fileID: 6415764563984951689, guid: 8711928ced5481a49a147d546313f733, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7571392793327897153, guid: 8711928ced5481a49a147d546313f733, type: 3}
+      propertyPath: m_text
+      value: Bumaba ang mga naospital at nainfect paglabas ng NRD-99 vaccine.
       objectReference: {fileID: 0}
     - target: {fileID: 7571392793327897153, guid: 8711928ced5481a49a147d546313f733, type: 3}
       propertyPath: m_fontAsset
@@ -6666,7 +6690,7 @@ MonoBehaviour:
   friendList1: {fileID: 1288498589}
   friendList2: {fileID: 469406461}
   friendList3: {fileID: 680607467}
-  checkList: {fileID: 0}
+  checkList: {fileID: 2087473620}
   postPerm: {fileID: 11400000, guid: 4370958315df7b14ea9bdae710cf0b0a, type: 2}
   level: {fileID: 11400000, guid: 036857752ee76a7488ee87d27bd876a3, type: 2}
 --- !u!1 &1366002102
@@ -10608,6 +10632,11 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 6683058484716109961, guid: 7804e3534fd06d644972060991e6f7da, type: 3}
   m_PrefabInstance: {fileID: 2087473618}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2087473620 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8767696979802560009, guid: 7804e3534fd06d644972060991e6f7da, type: 3}
+  m_PrefabInstance: {fileID: 2087473618}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2099944163
 GameObject:
   m_ObjectHideFlags: 0
@@ -12351,6 +12380,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Article1
       objectReference: {fileID: 0}
+    - target: {fileID: 3977074798267235035, guid: e830f5d4542dcd24d9a4db4f6b1cd1a2, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -433496443054774061, guid: ee87cd66974aa88459a0568d261c5803, type: 3}
     - target: {fileID: 6184434398862292805, guid: e830f5d4542dcd24d9a4db4f6b1cd1a2, type: 3}
       propertyPath: m_fontAsset
       value: 

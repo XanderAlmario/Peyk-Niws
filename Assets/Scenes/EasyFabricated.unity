@@ -275,6 +275,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1297828876109266643, guid: 2a2ce11149770fe4fa922461123a0821, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -105422585494384184, guid: a4282d7dc5d73da4291a902d96f3e947, type: 3}
     - target: {fileID: 1839610704430552693, guid: 2a2ce11149770fe4fa922461123a0821, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2
@@ -3655,6 +3659,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1297828876109266643, guid: d04ccd83388d25548b8bc28caf9bab2a, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -4433620220731893683, guid: 42502bab447b55b4b8bcc54168bca51f, type: 3}
     - target: {fileID: 1839610704430552693, guid: d04ccd83388d25548b8bc28caf9bab2a, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2
@@ -5246,6 +5254,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1297828876109266643, guid: 21826f423699bc441b9766e15ba0be68, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 5398311133586959735, guid: e21d8f893c1938a41be75c1d8fced2b7, type: 3}
     - target: {fileID: 1839610704430552693, guid: 21826f423699bc441b9766e15ba0be68, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2
